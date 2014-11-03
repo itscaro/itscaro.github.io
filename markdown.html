@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+	<meta charset="utf-8">
+	<title>Minh-Quan TRAN</title>
+	<meta name="description" content="">
+	<meta name="author" content="Minh-Quan TRAN">
+
+	<!-- HTML5 shim, for IE6-8 support of HTML elements -->
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- styles -->
+	<link rel="stylesheet" href="styles/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="styles/default.css">
+
+	<!-- scripts -->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script type="text/javascript" src="scripts/bootstrap-modal.js"></script>
+	<script type="text/javascript" src="scripts/bootstrap-dropdown.js"></script>
+	<script type="text/javascript" src="scripts/bootstrap-scrollspy.js"></script>
+	<script type="text/javascript" src="scripts/bootstrap-tabs.js"></script>
+	<script type="text/javascript" src="scripts/bootstrap-twipsy.js"></script>
+	<script type="text/javascript" src="scripts/bootstrap-popover.js"></script>
+	<script type="text/javascript" src="scripts/default.js"></script>
+	<script>
+		$(document).ready(function () {
+			$('.topbar').dropdown()
+						.scrollSpy()
+			$('.tabs').tabs()
+			$("a[rel=twipsy]").twipsy({
+				live: true
+			})
+			$("a[rel=popover]").popover({
+			}).click(function(e) {
+				e.preventDefault()
+			})
+		});
+	</script>
+</head>    <body>
+        <div class="topbar">
+    <div class="fill">
+        <div class="container">
+            <a class="brand" href="#">Minh-Quan TRAN</a>
+            <ul class="nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="about">About</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+        <div class="container">
+
+<div class="content">
+    <div class="page-header">
+        <h1>Header</h1>
+    </div>
+    <div class="row">
+        <div class="span14">
+            <h2>Title</h2>
+            <div class="clearfix"><p>This is a paragraph. It has two sentences.</p>
+
+<p>This is another paragraph. It also has two sentences.</p>
+
+<p><em>emphasis</em> or <em>emphasis</em></p>
+
+<p><strong>strong emphasis</strong> or <strong>strong emphasis</strong></p>
+
+<p>Some text with <code>some code</code> inside</p>
+
+<pre><code>line 1 of code
+line 2 of code
+line 3 of code
+</code></pre>
+
+<ul>
+<li>An item in a bulleted (unordered) list
+
+<ul>
+<li>A subitem, indented with 4 spaces</li>
+</ul></li>
+<li>Another item in a bulleted list</li>
+</ul>
+
+<ol>
+<li>An item in an enumerated (ordered) list</li>
+<li>Another item in an enumerated list</li>
+</ol>
+
+<h1>First-level heading</h1>
+
+<h4>Fourth-level heading</h4>
+
+<h1>First-level heading</h1>
+
+<h2>Second-level heading</h2>
+
+<blockquote>
+  <p>This text will be enclosed in an HTML blockquote element.
+  Blockquote elements are reflowable. You may arbitrarily
+  wrap the text to your liking, and it will all be parsed
+  into a single blockquote element.</p>
+</blockquote>
+
+<p><a href="link.address.here" title="link title here">link text here</a></p>
+
+<p><a href="link.address.here" title="link title here">link text here</a></p>
+
+<p><img src="/usr/images/test.png" alt="Alt text here" title="Image title here" /></p>
+
+<hr />
+
+<hr />
+
+<hr />
+
+<hr />
+
+<hr />
+</div>
+        </div>
+    </div>
+</div>
+
+        <footer>
+    <p>&copy; Minh-Quan TRAN 2014</p>
+</footer>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include 'layouts/topbar.twig'%}
+    <body>
+        {% include 'layouts/topbar.twig'%}
+        <div class="container">
+
+<div class="content">
+    <div class="page-header">
+        <h1>{{ entry.header }}</h1>
+    </div>
+    <div class="row">
+    	{{ content }}
+    </div>
+</div>
+
+        {% include 'layouts/footer.twig'%}
+        </div>
+    </body>
+</html>
