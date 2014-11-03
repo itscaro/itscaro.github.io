@@ -5,17 +5,19 @@
         {% include 'layouts/topbar.twig'%}
         <div class="container">
 
-<div class="content">
-    <div class="page-header">
-        <h1>{{ entry.header }}</h1>
-    </div>
-    <div class="row">
-        <div class="span14">
-            <h2>{{ entry.title }}</h2>
-            <div class="clearfix">{{ content }}</div>
-        </div>
-    </div>
-</div>
+		<div class="content">
+			<div class="page-header">
+				<h1>{{ entry.header }}</h1>
+			</div>
+			<div class="row">
+				<div class="span14">
+					<h2>{{ entry.title }}</h2>
+					<div class="clearfix">
+						{{ content }}
+					</div>
+				</div>
+			</div>
+		</div>
 
         {% include 'layouts/footer.twig'%}
         </div>
