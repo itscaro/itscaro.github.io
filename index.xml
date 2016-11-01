@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minh-Quan TRAN</title>
+    <link>http://cv.itscaro.me/index.xml</link>
+    <description>Recent content on Minh-Quan TRAN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Nov 2016 20:03:13 +0100</lastBuildDate>
+    <atom:link href="http://cv.itscaro.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>competences</title>
+      <link>http://cv.itscaro.me/competence/competences/</link>
+      <pubDate>Tue, 01 Nov 2016 20:03:13 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/competence/competences/</guid>
+      <description>
+
+&lt;h4 id=&#34;langages&#34;&gt;Langages&lt;/h4&gt;
+
+&lt;p&gt;PHP 5 &amp;amp; PHP 7 (Symfony 2 &amp;amp; 3, Doctrine 2, Silex, ZendFramework 1 &amp;amp; 2)&lt;br /&gt;
+Go (Golang)&lt;br /&gt;
+Java pour Android, Java, Python 3&lt;br /&gt;
+NodeJS, AngularJS 1 &amp;amp; 2, Ionic Framework 1 &amp;amp; 2, Cordova, TypeScript&lt;br /&gt;
+Electron (electron.atom.io) – Développement d’application Bureau basée sur NodeJS&lt;br /&gt;
+Bonne connaissance en C#, Ruby&lt;br /&gt;
+HTML, CSS, JavaScript (jQuery, Dojo, Bootstrap, etc.)&lt;br /&gt;
+XML, XSLT, UML, RegEx&lt;/p&gt;
+
+&lt;h4 id=&#34;bases-de-données&#34;&gt;Bases de données&lt;/h4&gt;
+
+&lt;p&gt;MySQL, SQL Server&lt;br /&gt;
+MongoDB, Redis, Cassandra, Elasticsearch (ELK stack)&lt;/p&gt;
+
+&lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
+
+&lt;p&gt;Event-driven programming&lt;br /&gt;
+Object-oriented programming&lt;br /&gt;
+Design-Pattern&lt;/p&gt;
+
+&lt;h4 id=&#34;autres-connaissances&#34;&gt;Autres connaissances&lt;/h4&gt;
+
+&lt;p&gt;Docker, Vagrant, Puppet, VMWare, Hyper-V&lt;br /&gt;
+Serveur web : Apache, Nginx, IIS&lt;br /&gt;
+Service web SOAP, REST, RESTful (HAL, HATEOAS) et JSON-RPC, XML-RPC&lt;br /&gt;
+Messaging queue: ZeroMQ, RabbitMQ&lt;br /&gt;
+Asterisk (PABX)&lt;br /&gt;
+Autorité de certificat SSL, authentification &amp;amp; autorisation par certificat SSL&lt;br /&gt;
+Tests unitaires/fonctionnels : PHPUnit, Selenium, Watir, Behat&lt;br /&gt;
+Logiciel &amp;amp; outils : GIT, Subversion, Jenkins, GitLab, JIRA&lt;br /&gt;
+Système d’exploitation: Linux (Debian, CentOS), Windows Server, Mac OS X&lt;br /&gt;
+Méthodologie de travail : AGILE, SCRUM, KANBAN, Cycle en V&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>languages</title>
+      <link>http://cv.itscaro.me/competence/languages/</link>
+      <pubDate>Tue, 01 Nov 2016 20:03:10 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/competence/languages/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Anglais&lt;/li&gt;
+&lt;li&gt;Français&lt;/li&gt;
+&lt;li&gt;Vietnamien&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>03</title>
+      <link>http://cv.itscaro.me/project/03/</link>
+      <pubDate>Tue, 01 Nov 2016 19:37:32 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/project/03/</guid>
+      <description>&lt;p&gt;Développement des applications Android&lt;br /&gt;
+Développement d’un site web et des outils avec Zend Framework 2&lt;br /&gt;
+Développement d’un plugin pour Composer&lt;br /&gt;
+Mise en place un serveur de Jenkins permettant de compiler les packages&lt;br /&gt;
+Android signés, prêts pour la publication&lt;br /&gt;
+Gestion de serveur Nginx, PHP-FPM, MySQL&lt;br /&gt;
+Mise en place des Tunnels SSH pseudo-persistants&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>02</title>
+      <link>http://cv.itscaro.me/project/02/</link>
+      <pubDate>Tue, 01 Nov 2016 19:37:30 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/project/02/</guid>
+      <description>&lt;p&gt;Mise en place d’un serveur vocal interactif basé sur Asterisk avec la reconnaissance vocale et support de client SIP&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>01</title>
+      <link>http://cv.itscaro.me/project/01/</link>
+      <pubDate>Tue, 01 Nov 2016 19:37:27 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/project/01/</guid>
+      <description>&lt;p&gt;Réalisation de plusieurs sites web pour des projets freelance en PHP/MySQL&lt;br /&gt;
+Administration de serveurs Linux et Windows&lt;br /&gt;
+Développement des extensions pour WordPress, vBulletin, Joomla, etc.&lt;br /&gt;
+Réalisation et maintenance des sites web en PHP/MySQL&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>cma</title>
+      <link>http://cv.itscaro.me/formation/cma/</link>
+      <pubDate>Tue, 01 Nov 2016 19:30:11 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/formation/cma/</guid>
+      <description>&lt;p&gt;Gestion de projets : approche managériale de la conduite de projets informatiques dans l&amp;rsquo;entreprise&lt;br /&gt;
+Mathématique financière pour optimiser la gestion d&amp;rsquo;entreprise&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>supinfo</title>
+      <link>http://cv.itscaro.me/formation/supinfo/</link>
+      <pubDate>Tue, 01 Nov 2016 19:30:06 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/formation/supinfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>insa</title>
+      <link>http://cv.itscaro.me/formation/insa/</link>
+      <pubDate>Tue, 01 Nov 2016 19:30:02 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/formation/insa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV Page</title>
+      <link>http://cv.itscaro.me/page/cv/</link>
+      <pubDate>Tue, 25 Oct 2016 23:33:35 +0200</pubDate>
+      
+      <guid>http://cv.itscaro.me/page/cv/</guid>
+      <description>&lt;p&gt;CV CONTENT&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact me Page</title>
+      <link>http://cv.itscaro.me/page/contact/</link>
+      <pubDate>Tue, 25 Oct 2016 23:33:35 +0200</pubDate>
+      
+      <guid>http://cv.itscaro.me/page/contact/</guid>
+      <description>&lt;p&gt;Contact me?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post 20161025</title>
+      <link>http://cv.itscaro.me/posts/20161025/</link>
+      <pubDate>Tue, 25 Oct 2016 23:33:35 +0200</pubDate>
+      
+      <guid>http://cv.itscaro.me/posts/20161025/</guid>
+      <description>&lt;p&gt;This is a post&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ijenko</title>
+      <link>http://cv.itscaro.me/experience/ijenko/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/experience/ijenko/</guid>
+      <description>&lt;p&gt;L’environnement technique: Go (Golang), PHP, MySQL, Symfony 2, Zend, AngularJS, NodeJS, Apache, NGINX, ZeroMQ, etc.&lt;br /&gt;
+Méthodologie de travail : AGILE, SCRUM &amp;amp; Kanban&lt;/p&gt;
+
+&lt;p&gt;Développement d&amp;rsquo;une plate-forme de service SaaS dans le domaine des objets connectés, domotique, énergétique – chauffage intelligent et le pilotage des appareils. L’architecture SOA composée d&amp;rsquo;environ 50 services - applications.&lt;br /&gt;
+Développement des APIs REST, JSON-RPC en Go et PHP&lt;br /&gt;
+Développement des POC avec AngularJS, Ionic Framework&lt;br /&gt;
+Développement d&amp;rsquo;un générateur de contrats d&amp;rsquo;interface pour faciliter les interconnexions des services internes et l&amp;rsquo;amélioration du générateur de description de service&lt;br /&gt;
+Maintenance applicative en production&lt;br /&gt;
+Mise en place de Composer pour la gestion des dépendances des projets et des bibliothèques, couplé avec Jenkins – Développement des outils de déploiement automatisé utilisant Jenkins&lt;br /&gt;
+Étude de mise en place des tests fonctionnels avec Behat&lt;br /&gt;
+Spécifications techniques&lt;br /&gt;
+Solutions B2B2C, plusieurs partenaires : Toshiba, Direct Energie, CEA, Bouygues Telecom, etc.&lt;br /&gt;
+Participation aux astreintes&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>obs</title>
+      <link>http://cv.itscaro.me/experience/obs/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/experience/obs/</guid>
+      <description>&lt;p&gt;Projet « Managed Contact Center – Express » L’environnement technique: PHP, Java, C#, Node.js, MSSQL, Redis, Dojo, jQuery, Apache, HAProxy, etc.&lt;/p&gt;
+
+&lt;p&gt;Développement d’un bandeau Web basé sur la technologie CosmoCall Universe pour les centres d’appel&lt;br /&gt;
+Développement d’un service de statistiques en temps réel utilisant les web sockets basées sur Node.js et Redis, dans une architecture de haute disponibilité&lt;br /&gt;
+Refonte de l’architecture de l’application&lt;br /&gt;
+Étude de mise en place des tests unitaires et fonctionnels&lt;br /&gt;
+Mise en œuvre de la plate-forme d’intégration continue avec Jenkins&lt;br /&gt;
+Gestion des machines virtuelles pour le développement&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>digitaleo</title>
+      <link>http://cv.itscaro.me/experience/digitaleo/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/experience/digitaleo/</guid>
+      <description>
+
+&lt;p&gt;Projets « texteo », « marketeo » et « satisfeo » L’environnement technique: PHP, Zend Framework, Ruby, MySQL, MSSQL, Linux, Zend, jQuery, Apache, IIS, etc.&lt;br /&gt;
+Méthodologie de travail : AGILE, SCRUM&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Développement des évolutions et des optimisations pour la plate-forme d’envoi de SMS en PHP avec un très fort trafic
+
+&lt;ul&gt;
+&lt;li&gt;l’API en SOAP et en REST&lt;/li&gt;
+&lt;li&gt;le moteur d’envoi de SMS se composant d’une vingtaine de services assurant les connexions persistantes en protocole SMPP&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Développement d’un simulateur de serveur SMPP en PHP permettant d’envoyer des SMS virtuels pour but de tester les services utilisant le canal SMS.&lt;/li&gt;
+&lt;li&gt;Développement d’une application web d’envoi de mailing multicanal (SMS, courriel, appel vocal).&lt;/li&gt;
+&lt;li&gt;Développement d’une application web d’envoi d’enquêtes vocales.&lt;/li&gt;
+&lt;li&gt;Développement de code exemple pour l’API en plusieurs langages : Java, C#, PHP, Visual Basic.&lt;/li&gt;
+&lt;li&gt;Réalisation des tests unitaires avec PHPUnit et des tests fonctionnels en Ruby avec Watir.&lt;/li&gt;
+&lt;li&gt;Etude de base de données frontale en NoSQL pour l’API pour suivre la monté en charge.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;participation-aux-aspects-administration-système-et-réseau&#34;&gt;Participation aux aspects administration système et réseau&lt;/h3&gt;
+
+&lt;p&gt;Etude et mise en place du système de centre de certificat SSL avec l’authentification par certificat SSL client
+  Amélioration du système d’authentification par certificat SSL client&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

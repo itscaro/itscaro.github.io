@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Competence-rsses on Minh-Quan TRAN</title>
+    <link>http://cv.itscaro.me/competence/index.xml</link>
+    <description>Recent content in Competence-rsses on Minh-Quan TRAN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Nov 2016 20:03:13 +0100</lastBuildDate>
+    <atom:link href="http://cv.itscaro.me/competence/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>competences</title>
+      <link>http://cv.itscaro.me/competence/competences/</link>
+      <pubDate>Tue, 01 Nov 2016 20:03:13 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/competence/competences/</guid>
+      <description>
+
+&lt;h4 id=&#34;langages&#34;&gt;Langages&lt;/h4&gt;
+
+&lt;p&gt;PHP 5 &amp;amp; PHP 7 (Symfony 2 &amp;amp; 3, Doctrine 2, Silex, ZendFramework 1 &amp;amp; 2)&lt;br /&gt;
+Go (Golang)&lt;br /&gt;
+Java pour Android, Java, Python 3&lt;br /&gt;
+NodeJS, AngularJS 1 &amp;amp; 2, Ionic Framework 1 &amp;amp; 2, Cordova, TypeScript&lt;br /&gt;
+Electron (electron.atom.io) – Développement d’application Bureau basée sur NodeJS&lt;br /&gt;
+Bonne connaissance en C#, Ruby&lt;br /&gt;
+HTML, CSS, JavaScript (jQuery, Dojo, Bootstrap, etc.)&lt;br /&gt;
+XML, XSLT, UML, RegEx&lt;/p&gt;
+
+&lt;h4 id=&#34;bases-de-données&#34;&gt;Bases de données&lt;/h4&gt;
+
+&lt;p&gt;MySQL, SQL Server&lt;br /&gt;
+MongoDB, Redis, Cassandra, Elasticsearch (ELK stack)&lt;/p&gt;
+
+&lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
+
+&lt;p&gt;Event-driven programming&lt;br /&gt;
+Object-oriented programming&lt;br /&gt;
+Design-Pattern&lt;/p&gt;
+
+&lt;h4 id=&#34;autres-connaissances&#34;&gt;Autres connaissances&lt;/h4&gt;
+
+&lt;p&gt;Docker, Vagrant, Puppet, VMWare, Hyper-V&lt;br /&gt;
+Serveur web : Apache, Nginx, IIS&lt;br /&gt;
+Service web SOAP, REST, RESTful (HAL, HATEOAS) et JSON-RPC, XML-RPC&lt;br /&gt;
+Messaging queue: ZeroMQ, RabbitMQ&lt;br /&gt;
+Asterisk (PABX)&lt;br /&gt;
+Autorité de certificat SSL, authentification &amp;amp; autorisation par certificat SSL&lt;br /&gt;
+Tests unitaires/fonctionnels : PHPUnit, Selenium, Watir, Behat&lt;br /&gt;
+Logiciel &amp;amp; outils : GIT, Subversion, Jenkins, GitLab, JIRA&lt;br /&gt;
+Système d’exploitation: Linux (Debian, CentOS), Windows Server, Mac OS X&lt;br /&gt;
+Méthodologie de travail : AGILE, SCRUM, KANBAN, Cycle en V&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>languages</title>
+      <link>http://cv.itscaro.me/competence/languages/</link>
+      <pubDate>Tue, 01 Nov 2016 20:03:10 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/competence/languages/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Anglais&lt;/li&gt;
+&lt;li&gt;Français&lt;/li&gt;
+&lt;li&gt;Vietnamien&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

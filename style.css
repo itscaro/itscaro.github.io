@@ -1,0 +1,56 @@
+header h1, header h4 {
+    font-family: 'Gentium Book Basic', "Times New Roman";
+}
+
+header div#links {
+    text-align: right;
+}
+
+header div#links a {
+    width: 45px;
+    height: 45px;
+    display: inline-block;
+    margin: 10px 15px 0 0;
+}
+
+header div#links a#link-github {
+    background: url('images/github.png') no-repeat;
+}
+
+header div#links a#link-linkedin {
+    background: url('images/linkedin.png') no-repeat;
+}
+
+header div#links a#link-viadeo {
+    background: url('images/viadeo.png') no-repeat;
+}
+
+header div#links a#link-cv {
+    background: url('images/cv.png') no-repeat;
+}
+
+article h1, article h2, article h3, article h4, article h5, article h6 {
+    font-family: 'Titillium Web', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+article h1, article h2, article h3, article h4 {
+    font-weight: bold;
+}
+
+article h1 {
+    font-size: 2em;
+}
+
+footer {
+    text-align: center;
+}
+
+ul {
+    padding-left: 15px;
+}
+
+@media print {
+    header #links, footer #powered-by {
+        display: none;
+    }
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project-rsses on Minh-Quan TRAN</title>
+    <link>http://cv.itscaro.me/project/index.xml</link>
+    <description>Recent content in Project-rsses on Minh-Quan TRAN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Nov 2016 19:37:32 +0100</lastBuildDate>
+    <atom:link href="http://cv.itscaro.me/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>03</title>
+      <link>http://cv.itscaro.me/project/03/</link>
+      <pubDate>Tue, 01 Nov 2016 19:37:32 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/project/03/</guid>
+      <description>&lt;p&gt;Développement des applications Android&lt;br /&gt;
+Développement d’un site web et des outils avec Zend Framework 2&lt;br /&gt;
+Développement d’un plugin pour Composer&lt;br /&gt;
+Mise en place un serveur de Jenkins permettant de compiler les packages&lt;br /&gt;
+Android signés, prêts pour la publication&lt;br /&gt;
+Gestion de serveur Nginx, PHP-FPM, MySQL&lt;br /&gt;
+Mise en place des Tunnels SSH pseudo-persistants&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>02</title>
+      <link>http://cv.itscaro.me/project/02/</link>
+      <pubDate>Tue, 01 Nov 2016 19:37:30 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/project/02/</guid>
+      <description>&lt;p&gt;Mise en place d’un serveur vocal interactif basé sur Asterisk avec la reconnaissance vocale et support de client SIP&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>01</title>
+      <link>http://cv.itscaro.me/project/01/</link>
+      <pubDate>Tue, 01 Nov 2016 19:37:27 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/project/01/</guid>
+      <description>&lt;p&gt;Réalisation de plusieurs sites web pour des projets freelance en PHP/MySQL&lt;br /&gt;
+Administration de serveurs Linux et Windows&lt;br /&gt;
+Développement des extensions pour WordPress, vBulletin, Joomla, etc.&lt;br /&gt;
+Réalisation et maintenance des sites web en PHP/MySQL&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

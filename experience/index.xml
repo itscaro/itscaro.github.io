@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experience-rsses on Minh-Quan TRAN</title>
+    <link>http://cv.itscaro.me/experience/index.xml</link>
+    <description>Recent content in Experience-rsses on Minh-Quan TRAN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://cv.itscaro.me/experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ijenko</title>
+      <link>http://cv.itscaro.me/experience/ijenko/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/experience/ijenko/</guid>
+      <description>&lt;p&gt;L’environnement technique: Go (Golang), PHP, MySQL, Symfony 2, Zend, AngularJS, NodeJS, Apache, NGINX, ZeroMQ, etc.&lt;br /&gt;
+Méthodologie de travail : AGILE, SCRUM &amp;amp; Kanban&lt;/p&gt;
+
+&lt;p&gt;Développement d&amp;rsquo;une plate-forme de service SaaS dans le domaine des objets connectés, domotique, énergétique – chauffage intelligent et le pilotage des appareils. L’architecture SOA composée d&amp;rsquo;environ 50 services - applications.&lt;br /&gt;
+Développement des APIs REST, JSON-RPC en Go et PHP&lt;br /&gt;
+Développement des POC avec AngularJS, Ionic Framework&lt;br /&gt;
+Développement d&amp;rsquo;un générateur de contrats d&amp;rsquo;interface pour faciliter les interconnexions des services internes et l&amp;rsquo;amélioration du générateur de description de service&lt;br /&gt;
+Maintenance applicative en production&lt;br /&gt;
+Mise en place de Composer pour la gestion des dépendances des projets et des bibliothèques, couplé avec Jenkins – Développement des outils de déploiement automatisé utilisant Jenkins&lt;br /&gt;
+Étude de mise en place des tests fonctionnels avec Behat&lt;br /&gt;
+Spécifications techniques&lt;br /&gt;
+Solutions B2B2C, plusieurs partenaires : Toshiba, Direct Energie, CEA, Bouygues Telecom, etc.&lt;br /&gt;
+Participation aux astreintes&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>obs</title>
+      <link>http://cv.itscaro.me/experience/obs/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/experience/obs/</guid>
+      <description>&lt;p&gt;Projet « Managed Contact Center – Express » L’environnement technique: PHP, Java, C#, Node.js, MSSQL, Redis, Dojo, jQuery, Apache, HAProxy, etc.&lt;/p&gt;
+
+&lt;p&gt;Développement d’un bandeau Web basé sur la technologie CosmoCall Universe pour les centres d’appel&lt;br /&gt;
+Développement d’un service de statistiques en temps réel utilisant les web sockets basées sur Node.js et Redis, dans une architecture de haute disponibilité&lt;br /&gt;
+Refonte de l’architecture de l’application&lt;br /&gt;
+Étude de mise en place des tests unitaires et fonctionnels&lt;br /&gt;
+Mise en œuvre de la plate-forme d’intégration continue avec Jenkins&lt;br /&gt;
+Gestion des machines virtuelles pour le développement&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>digitaleo</title>
+      <link>http://cv.itscaro.me/experience/digitaleo/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0100</pubDate>
+      
+      <guid>http://cv.itscaro.me/experience/digitaleo/</guid>
+      <description>
+
+&lt;p&gt;Projets « texteo », « marketeo » et « satisfeo » L’environnement technique: PHP, Zend Framework, Ruby, MySQL, MSSQL, Linux, Zend, jQuery, Apache, IIS, etc.&lt;br /&gt;
+Méthodologie de travail : AGILE, SCRUM&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Développement des évolutions et des optimisations pour la plate-forme d’envoi de SMS en PHP avec un très fort trafic
+
+&lt;ul&gt;
+&lt;li&gt;l’API en SOAP et en REST&lt;/li&gt;
+&lt;li&gt;le moteur d’envoi de SMS se composant d’une vingtaine de services assurant les connexions persistantes en protocole SMPP&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Développement d’un simulateur de serveur SMPP en PHP permettant d’envoyer des SMS virtuels pour but de tester les services utilisant le canal SMS.&lt;/li&gt;
+&lt;li&gt;Développement d’une application web d’envoi de mailing multicanal (SMS, courriel, appel vocal).&lt;/li&gt;
+&lt;li&gt;Développement d’une application web d’envoi d’enquêtes vocales.&lt;/li&gt;
+&lt;li&gt;Développement de code exemple pour l’API en plusieurs langages : Java, C#, PHP, Visual Basic.&lt;/li&gt;
+&lt;li&gt;Réalisation des tests unitaires avec PHPUnit et des tests fonctionnels en Ruby avec Watir.&lt;/li&gt;
+&lt;li&gt;Etude de base de données frontale en NoSQL pour l’API pour suivre la monté en charge.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;participation-aux-aspects-administration-système-et-réseau&#34;&gt;Participation aux aspects administration système et réseau&lt;/h3&gt;
+
+&lt;p&gt;Etude et mise en place du système de centre de certificat SSL avec l’authentification par certificat SSL client
+  Amélioration du système d’authentification par certificat SSL client&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
