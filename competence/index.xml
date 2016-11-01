@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Competence-rsses on Minh-Quan TRAN</title>
-    <link>http://cv.itscaro.me/competence/index.xml</link>
+    <link>https://itscaro.me/competence/index.xml</link>
     <description>Recent content in Competence-rsses on Minh-Quan TRAN</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 01 Nov 2016 20:03:13 +0100</lastBuildDate>
-    <atom:link href="http://cv.itscaro.me/competence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://itscaro.me/competence/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>competences</title>
-      <link>http://cv.itscaro.me/competence/competences/</link>
+      <link>https://itscaro.me/competence/competences/</link>
       <pubDate>Tue, 01 Nov 2016 20:03:13 +0100</pubDate>
       
-      <guid>http://cv.itscaro.me/competence/competences/</guid>
+      <guid>https://itscaro.me/competence/competences/</guid>
       <description>
 
 &lt;h4 id=&#34;langages&#34;&gt;Langages&lt;/h4&gt;
@@ -55,10 +55,10 @@ Méthodologie de travail : AGILE, SCRUM, KANBAN, Cycle en V&lt;/p&gt;
     
     <item>
       <title>languages</title>
-      <link>http://cv.itscaro.me/competence/languages/</link>
+      <link>https://itscaro.me/competence/languages/</link>
       <pubDate>Tue, 01 Nov 2016 20:03:10 +0100</pubDate>
       
-      <guid>http://cv.itscaro.me/competence/languages/</guid>
+      <guid>https://itscaro.me/competence/languages/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Anglais&lt;/li&gt;
 &lt;li&gt;Français&lt;/li&gt;

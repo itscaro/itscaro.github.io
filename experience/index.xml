@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experience-rsses on Minh-Quan TRAN</title>
-    <link>http://cv.itscaro.me/experience/index.xml</link>
+    <link>https://itscaro.me/experience/index.xml</link>
     <description>Recent content in Experience-rsses on Minh-Quan TRAN</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0100</lastBuildDate>
-    <atom:link href="http://cv.itscaro.me/experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://itscaro.me/experience/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ijenko</title>
-      <link>http://cv.itscaro.me/experience/ijenko/</link>
+      <link>https://itscaro.me/experience/ijenko/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
       
-      <guid>http://cv.itscaro.me/experience/ijenko/</guid>
+      <guid>https://itscaro.me/experience/ijenko/</guid>
       <description>&lt;p&gt;L’environnement technique: Go (Golang), PHP, MySQL, Symfony 2, Zend, AngularJS, NodeJS, Apache, NGINX, ZeroMQ, etc.&lt;br /&gt;
 Méthodologie de travail : AGILE, SCRUM &amp;amp; Kanban&lt;/p&gt;
 
@@ -32,10 +32,10 @@ Participation aux astreintes&lt;/p&gt;
     
     <item>
       <title>obs</title>
-      <link>http://cv.itscaro.me/experience/obs/</link>
+      <link>https://itscaro.me/experience/obs/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0100</pubDate>
       
-      <guid>http://cv.itscaro.me/experience/obs/</guid>
+      <guid>https://itscaro.me/experience/obs/</guid>
       <description>&lt;p&gt;Projet « Managed Contact Center – Express » L’environnement technique: PHP, Java, C#, Node.js, MSSQL, Redis, Dojo, jQuery, Apache, HAProxy, etc.&lt;/p&gt;
 
 &lt;p&gt;Développement d’un bandeau Web basé sur la technologie CosmoCall Universe pour les centres d’appel&lt;br /&gt;
@@ -49,10 +49,10 @@ Gestion des machines virtuelles pour le développement&lt;/p&gt;
     
     <item>
       <title>digitaleo</title>
-      <link>http://cv.itscaro.me/experience/digitaleo/</link>
+      <link>https://itscaro.me/experience/digitaleo/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0100</pubDate>
       
-      <guid>http://cv.itscaro.me/experience/digitaleo/</guid>
+      <guid>https://itscaro.me/experience/digitaleo/</guid>
       <description>
 
 &lt;p&gt;Projets « texteo », « marketeo » et « satisfeo » L’environnement technique: PHP, Zend Framework, Ruby, MySQL, MSSQL, Linux, Zend, jQuery, Apache, IIS, etc.&lt;br /&gt;

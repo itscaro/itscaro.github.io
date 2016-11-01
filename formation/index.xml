@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Formation-rsses on Minh-Quan TRAN</title>
-    <link>http://cv.itscaro.me/formation/index.xml</link>
+    <link>https://itscaro.me/formation/index.xml</link>
     <description>Recent content in Formation-rsses on Minh-Quan TRAN</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 01 Nov 2016 19:30:11 +0100</lastBuildDate>
-    <atom:link href="http://cv.itscaro.me/formation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://itscaro.me/formation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>cma</title>
-      <link>http://cv.itscaro.me/formation/cma/</link>
+      <link>https://itscaro.me/formation/cma/</link>
       <pubDate>Tue, 01 Nov 2016 19:30:11 +0100</pubDate>
       
-      <guid>http://cv.itscaro.me/formation/cma/</guid>
+      <guid>https://itscaro.me/formation/cma/</guid>
       <description>&lt;p&gt;Gestion de projets : approche managériale de la conduite de projets informatiques dans l&amp;rsquo;entreprise&lt;br /&gt;
 Mathématique financière pour optimiser la gestion d&amp;rsquo;entreprise&lt;/p&gt;
 </description>
@@ -21,19 +21,19 @@ Mathématique financière pour optimiser la gestion d&amp;rsquo;entreprise&lt;/p
     
     <item>
       <title>supinfo</title>
-      <link>http://cv.itscaro.me/formation/supinfo/</link>
+      <link>https://itscaro.me/formation/supinfo/</link>
       <pubDate>Tue, 01 Nov 2016 19:30:06 +0100</pubDate>
       
-      <guid>http://cv.itscaro.me/formation/supinfo/</guid>
+      <guid>https://itscaro.me/formation/supinfo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>insa</title>
-      <link>http://cv.itscaro.me/formation/insa/</link>
+      <link>https://itscaro.me/formation/insa/</link>
       <pubDate>Tue, 01 Nov 2016 19:30:02 +0100</pubDate>
       
-      <guid>http://cv.itscaro.me/formation/insa/</guid>
+      <guid>https://itscaro.me/formation/insa/</guid>
       <description></description>
     </item>
     

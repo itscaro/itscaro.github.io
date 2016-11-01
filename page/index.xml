@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Page-rsses on Minh-Quan TRAN</title>
-    <link>http://cv.itscaro.me/page/index.xml</link>
+    <link>https://itscaro.me/page/index.xml</link>
     <description>Recent content in Page-rsses on Minh-Quan TRAN</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 25 Oct 2016 23:33:35 +0200</lastBuildDate>
-    <atom:link href="http://cv.itscaro.me/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://itscaro.me/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CV Page</title>
-      <link>http://cv.itscaro.me/page/cv/</link>
+      <link>https://itscaro.me/page/cv/</link>
       <pubDate>Tue, 25 Oct 2016 23:33:35 +0200</pubDate>
       
-      <guid>http://cv.itscaro.me/page/cv/</guid>
+      <guid>https://itscaro.me/page/cv/</guid>
       <description>&lt;p&gt;CV CONTENT&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Contact me Page</title>
-      <link>http://cv.itscaro.me/page/contact/</link>
+      <link>https://itscaro.me/page/contact/</link>
       <pubDate>Tue, 25 Oct 2016 23:33:35 +0200</pubDate>
       
-      <guid>http://cv.itscaro.me/page/contact/</guid>
+      <guid>https://itscaro.me/page/contact/</guid>
       <description>&lt;p&gt;Contact me?&lt;/p&gt;
 </description>
     </item>
