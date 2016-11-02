@@ -18,10 +18,10 @@
 
 &lt;h4 id=&#34;langages&#34;&gt;Langages&lt;/h4&gt;
 
-&lt;p&gt;PHP 5 &amp;amp; PHP 7 (Symfony 2 &amp;amp; 3, Doctrine 2, Silex, ZendFramework 1 &amp;amp; 2)&lt;br /&gt;
+&lt;p&gt;PHP 5 &amp;amp; 7 (Symfony, ZendFramework)&lt;br /&gt;
 Go (Golang)&lt;br /&gt;
 Java pour Android, Java, Python 3&lt;br /&gt;
-NodeJS, AngularJS 1 &amp;amp; 2, Ionic Framework 1 &amp;amp; 2, Cordova, TypeScript&lt;br /&gt;
+NodeJS, AngularJS 1 &amp;amp; 2, Ionic Framework, Cordova, TypeScript&lt;br /&gt;
 Electron (electron.atom.io) – Développement d’application Bureau basée sur NodeJS&lt;br /&gt;
 Bonne connaissance en C#, Ruby&lt;br /&gt;
 HTML, CSS, JavaScript (jQuery, Dojo, Bootstrap, etc.)&lt;br /&gt;
@@ -29,8 +29,9 @@ XML, XSLT, UML, RegEx&lt;/p&gt;
 
 &lt;h4 id=&#34;bases-de-données&#34;&gt;Bases de données&lt;/h4&gt;
 
-&lt;p&gt;MySQL, SQL Server&lt;br /&gt;
-MongoDB, Redis, Cassandra, Elasticsearch (ELK stack)&lt;/p&gt;
+&lt;p&gt;MySQL, MS SQL Server&lt;br /&gt;
+MongoDB, Redis, Cassandra&lt;br /&gt;
+ElasticSearch&lt;/p&gt;
 
 &lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
 
@@ -44,12 +45,13 @@ Design-Pattern&lt;/p&gt;
 Serveur web : Apache, Nginx, IIS&lt;br /&gt;
 Service web SOAP, REST, RESTful (HAL, HATEOAS) et JSON-RPC, XML-RPC&lt;br /&gt;
 Messaging queue: ZeroMQ, RabbitMQ&lt;br /&gt;
+HAProxy, Varnish&lt;br /&gt;
 Asterisk (PABX)&lt;br /&gt;
 Autorité de certificat SSL, authentification &amp;amp; autorisation par certificat SSL&lt;br /&gt;
 Tests unitaires/fonctionnels : PHPUnit, Selenium, Watir, Behat&lt;br /&gt;
-Logiciel &amp;amp; outils : GIT, Subversion, Jenkins, GitLab, JIRA&lt;br /&gt;
-Système d’exploitation: Linux (Debian, CentOS), Windows Server, Mac OS X&lt;br /&gt;
-Méthodologie de travail : AGILE, SCRUM, KANBAN, Cycle en V&lt;/p&gt;
+Logiciel &amp;amp; outils : GIT, Subversion, Jenkins, GitLab, JIRA, Bamboo, Confluence&lt;br /&gt;
+Système d’exploitation: Linux (Debian, Redhat), Windows Server, Mac OS X&lt;br /&gt;
+Méthodologie de travail : SCRUM, KANBAN, Cycle en V&lt;/p&gt;
 </description>
     </item>
     
@@ -112,8 +114,10 @@ Réalisation et maintenance des sites web en PHP/MySQL&lt;/p&gt;
       <pubDate>Tue, 01 Nov 2016 19:30:11 +0100</pubDate>
       
       <guid>https://itscaro.me/formation/cma/</guid>
-      <description>&lt;p&gt;Gestion de projets : approche managériale de la conduite de projets informatiques dans l&amp;rsquo;entreprise&lt;br /&gt;
-Mathématique financière pour optimiser la gestion d&amp;rsquo;entreprise&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;Gestion de projets : approche managériale de la conduite de projets informatiques dans l&amp;rsquo;entreprise&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Mathématique financière pour optimiser la gestion d&amp;rsquo;entreprise&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -136,22 +140,12 @@ Mathématique financière pour optimiser la gestion d&amp;rsquo;entreprise&lt;/p
     </item>
     
     <item>
-      <title>CV Page</title>
-      <link>https://itscaro.me/page/cv/</link>
-      <pubDate>Tue, 25 Oct 2016 23:33:35 +0200</pubDate>
-      
-      <guid>https://itscaro.me/page/cv/</guid>
-      <description>&lt;p&gt;CV CONTENT&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact me Page</title>
+      <title>Contact me</title>
       <link>https://itscaro.me/page/contact/</link>
       <pubDate>Tue, 25 Oct 2016 23:33:35 +0200</pubDate>
       
       <guid>https://itscaro.me/page/contact/</guid>
-      <description>&lt;p&gt;Contact me?&lt;/p&gt;
+      <description>&lt;p&gt;Want to contact me?&lt;/p&gt;
 </description>
     </item>
     
@@ -171,10 +165,10 @@ Mathématique financière pour optimiser la gestion d&amp;rsquo;entreprise&lt;/p
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
       
       <guid>https://itscaro.me/experience/ijenko/</guid>
-      <description>&lt;p&gt;L’environnement technique: Go (Golang), PHP, MySQL, Symfony 2, Zend, AngularJS, NodeJS, Apache, NGINX, ZeroMQ, etc.&lt;br /&gt;
+      <description>&lt;p&gt;L’environnement technique: Go (Golang), PHP, MySQL, Symfony, ZendFramework, AngularJS, NodeJS, Apache, NGINX, ZeroMQ, etc.&lt;br /&gt;
 Méthodologie de travail : AGILE, SCRUM &amp;amp; Kanban&lt;/p&gt;
 
-&lt;p&gt;Développement d&amp;rsquo;une plate-forme de service SaaS dans le domaine des objets connectés, domotique, énergétique – chauffage intelligent et le pilotage des appareils. L’architecture SOA composée d&amp;rsquo;environ 50 services - applications.&lt;br /&gt;
+&lt;p&gt;Développement d&amp;rsquo;une plate-forme de service SaaS dans le domaine des objets connectés, domotique, énergétique – chauffage intelligent et le pilotage des appareils, l’architecture SOA composée d&amp;rsquo;environ 50 services&lt;br /&gt;
 Développement des APIs REST, JSON-RPC en Go et PHP&lt;br /&gt;
 Développement des POC avec AngularJS, Ionic Framework&lt;br /&gt;
 Développement d&amp;rsquo;un générateur de contrats d&amp;rsquo;interface pour faciliter les interconnexions des services internes et l&amp;rsquo;amélioration du générateur de description de service&lt;br /&gt;
@@ -230,7 +224,7 @@ Méthodologie de travail : AGILE, SCRUM&lt;/p&gt;
 &lt;li&gt;Etude de base de données frontale en NoSQL pour l’API pour suivre la monté en charge.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;participation-aux-aspects-administration-système-et-réseau&#34;&gt;Participation aux aspects administration système et réseau&lt;/h3&gt;
+&lt;h5 id=&#34;participation-aux-aspects-administration-système-et-réseau&#34;&gt;Participation aux aspects administration système et réseau&lt;/h5&gt;
 
 &lt;p&gt;Etude et mise en place du système de centre de certificat SSL avec l’authentification par certificat SSL client
   Amélioration du système d’authentification par certificat SSL client&lt;/p&gt;

@@ -18,10 +18,10 @@
 
 &lt;h4 id=&#34;langages&#34;&gt;Langages&lt;/h4&gt;
 
-&lt;p&gt;PHP 5 &amp;amp; PHP 7 (Symfony 2 &amp;amp; 3, Doctrine 2, Silex, ZendFramework 1 &amp;amp; 2)&lt;br /&gt;
+&lt;p&gt;PHP 5 &amp;amp; 7 (Symfony, ZendFramework)&lt;br /&gt;
 Go (Golang)&lt;br /&gt;
 Java pour Android, Java, Python 3&lt;br /&gt;
-NodeJS, AngularJS 1 &amp;amp; 2, Ionic Framework 1 &amp;amp; 2, Cordova, TypeScript&lt;br /&gt;
+NodeJS, AngularJS 1 &amp;amp; 2, Ionic Framework, Cordova, TypeScript&lt;br /&gt;
 Electron (electron.atom.io) – Développement d’application Bureau basée sur NodeJS&lt;br /&gt;
 Bonne connaissance en C#, Ruby&lt;br /&gt;
 HTML, CSS, JavaScript (jQuery, Dojo, Bootstrap, etc.)&lt;br /&gt;
@@ -29,8 +29,9 @@ XML, XSLT, UML, RegEx&lt;/p&gt;
 
 &lt;h4 id=&#34;bases-de-données&#34;&gt;Bases de données&lt;/h4&gt;
 
-&lt;p&gt;MySQL, SQL Server&lt;br /&gt;
-MongoDB, Redis, Cassandra, Elasticsearch (ELK stack)&lt;/p&gt;
+&lt;p&gt;MySQL, MS SQL Server&lt;br /&gt;
+MongoDB, Redis, Cassandra&lt;br /&gt;
+ElasticSearch&lt;/p&gt;
 
 &lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
 
@@ -44,12 +45,13 @@ Design-Pattern&lt;/p&gt;
 Serveur web : Apache, Nginx, IIS&lt;br /&gt;
 Service web SOAP, REST, RESTful (HAL, HATEOAS) et JSON-RPC, XML-RPC&lt;br /&gt;
 Messaging queue: ZeroMQ, RabbitMQ&lt;br /&gt;
+HAProxy, Varnish&lt;br /&gt;
 Asterisk (PABX)&lt;br /&gt;
 Autorité de certificat SSL, authentification &amp;amp; autorisation par certificat SSL&lt;br /&gt;
 Tests unitaires/fonctionnels : PHPUnit, Selenium, Watir, Behat&lt;br /&gt;
-Logiciel &amp;amp; outils : GIT, Subversion, Jenkins, GitLab, JIRA&lt;br /&gt;
-Système d’exploitation: Linux (Debian, CentOS), Windows Server, Mac OS X&lt;br /&gt;
-Méthodologie de travail : AGILE, SCRUM, KANBAN, Cycle en V&lt;/p&gt;
+Logiciel &amp;amp; outils : GIT, Subversion, Jenkins, GitLab, JIRA, Bamboo, Confluence&lt;br /&gt;
+Système d’exploitation: Linux (Debian, Redhat), Windows Server, Mac OS X&lt;br /&gt;
+Méthodologie de travail : SCRUM, KANBAN, Cycle en V&lt;/p&gt;
 </description>
     </item>
     

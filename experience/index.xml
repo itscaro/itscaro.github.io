@@ -14,10 +14,10 @@
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
       
       <guid>https://itscaro.me/experience/ijenko/</guid>
-      <description>&lt;p&gt;L’environnement technique: Go (Golang), PHP, MySQL, Symfony 2, Zend, AngularJS, NodeJS, Apache, NGINX, ZeroMQ, etc.&lt;br /&gt;
+      <description>&lt;p&gt;L’environnement technique: Go (Golang), PHP, MySQL, Symfony, ZendFramework, AngularJS, NodeJS, Apache, NGINX, ZeroMQ, etc.&lt;br /&gt;
 Méthodologie de travail : AGILE, SCRUM &amp;amp; Kanban&lt;/p&gt;
 
-&lt;p&gt;Développement d&amp;rsquo;une plate-forme de service SaaS dans le domaine des objets connectés, domotique, énergétique – chauffage intelligent et le pilotage des appareils. L’architecture SOA composée d&amp;rsquo;environ 50 services - applications.&lt;br /&gt;
+&lt;p&gt;Développement d&amp;rsquo;une plate-forme de service SaaS dans le domaine des objets connectés, domotique, énergétique – chauffage intelligent et le pilotage des appareils, l’architecture SOA composée d&amp;rsquo;environ 50 services&lt;br /&gt;
 Développement des APIs REST, JSON-RPC en Go et PHP&lt;br /&gt;
 Développement des POC avec AngularJS, Ionic Framework&lt;br /&gt;
 Développement d&amp;rsquo;un générateur de contrats d&amp;rsquo;interface pour faciliter les interconnexions des services internes et l&amp;rsquo;amélioration du générateur de description de service&lt;br /&gt;
@@ -73,7 +73,7 @@ Méthodologie de travail : AGILE, SCRUM&lt;/p&gt;
 &lt;li&gt;Etude de base de données frontale en NoSQL pour l’API pour suivre la monté en charge.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;participation-aux-aspects-administration-système-et-réseau&#34;&gt;Participation aux aspects administration système et réseau&lt;/h3&gt;
+&lt;h5 id=&#34;participation-aux-aspects-administration-système-et-réseau&#34;&gt;Participation aux aspects administration système et réseau&lt;/h5&gt;
 
 &lt;p&gt;Etude et mise en place du système de centre de certificat SSL avec l’authentification par certificat SSL client
   Amélioration du système d’authentification par certificat SSL client&lt;/p&gt;
